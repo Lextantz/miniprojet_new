@@ -4,7 +4,6 @@
 #include <QApplication>
 #include <QWidget>
 
-
 #include <iostream>
 
 using namespace std;
@@ -35,7 +34,7 @@ int main(int argc, char *argv[])
 
 
 
-    //Myserver mServer;
+    //Myserver mServer; sds
 
     return app.exec();
 }
